@@ -19,6 +19,6 @@
 
 <div align="center">
   <a href="https://github.com/1ofx9">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=1ofx9&title=none&hide_border=false&theme=high-contrast&border_color=000000&bg_color=transparent&radius=16&area_color=ffffff&area=true&point=ffffff&line=ffffff&days=10&text_color=ffffff&title_color=ffffff&include_all_commits=true&count_private=true" alt="Activity Graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=1ofx9&border_color=000000&bg_color=transparent&radius=16&area_color=ffffff&area=true&color=ffffff&line=ffffff&point=ffffff&hide_border=true&point=transparent&days=15&include_all_commits=true&count_private=true" alt="github activity graph">
   </a>
 </div>
