@@ -1,5 +1,5 @@
 <a href="https://github.com/1ofx9">
-<img src="https://i.postimg.cc/yxSgW5VM/1ofx9-banner.png" alt="1ofx9 banner" width="100%">
+<img src="https://i.postimg.cc/7hs48Yvn/1ofx9-banner.png" alt="1ofx9 banner" width="100%">
 </a>
 <div align="center">
   <a href="https://www.subashpraveen.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
@@ -11,9 +11,11 @@
 
 ---
 
-<div align="justify" style="max-width: 800px; margin: 0 auto;">
-  Hey, <b>I'm Subash Praveen!</b> I'm a CS Student & Developer (Class of 2027) from Pondicherry, India. Focused on crafting <b>intuitive, user-centric</b> digital experiences, I work with modern web technologies and thoughtful UI/UX design to build clean, functional applications. I'm passionate about turning ideas into meaningful products and continuously improving through hands-on projects.
+<div align="justify">
+  Hello, I am <b>Subash Praveen!</b> I am a CS Student & Developer (Batch of 2027) from Pondicherry, India. Specializing in creating engaging digital user experiences using up-to-date web development and well-crafted <b>UI/UX Design</b>, I am dedicated to bringing my ideas to life through creative <b>software development</b>. In my free time, I love listening to <b>music</b> and hopping around in <b>Minecraft</b>.
 </div>
+
+<br />
 
 <div align="center">
   <a href="https://github.com/1ofx9">
