@@ -1,5 +1,5 @@
 <a href="https://github.com/1ofx9">
-<img src="./1ofx9_banner.png" alt="1ofx9 banner" width="100%">
+<img src="https://i.postimg.cc/yxSgW5VM/1ofx9-banner.png" alt="1ofx9 banner" width="100%">
 </a>
 <div align="center">
   <a href="https://www.subashpraveen.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
