@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/Portfolio-fafafa?style=for-the-badge&logo=vercel&logoColor=18181b">
   </a>
   &nbsp;
-  <a href="mailto:[EMAIL_ADDRESS]">
+  <a href="mailto:contact@subashpraveen.com">
     <img src="https://img.shields.io/badge/Email-fafafa?style=for-the-badge&logo=gmail&logoColor=18181b">
   </a>
   &nbsp;
