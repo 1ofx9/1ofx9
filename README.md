@@ -16,7 +16,7 @@
 ---
 
 <div align="justify">
-  Hello, I am <b>Subash Praveen!</b> I am a CS Student & Developer (Batch of 2027) from Pondicherry, India. Specializing in creating engaging digital user experiences using up-to-date web development and well-crafted <b>UI/UX Design</b>, I am dedicated to bringing my ideas to life through creative <b>software development</b>. In my free time, I love listening to <b>music</b> and hopping around in <b>Minecraft</b>.
+  Hello, I am <b>Subash Praveen!</b> I am a CS Student (Batch of 2027) & Developer from Pondicherry, India. Specializing in creating engaging digital user experiences using up-to-date web development and well-crafted <b>UI/UX Design</b>, I am dedicated to bringing my ideas to life through creative <b>software development</b>. In my free time, I love listening to <b>music</b> and hopping around in <b>Minecraft</b>.
 </div>
 
 <br/>
