@@ -7,15 +7,15 @@
 
 <div align="center">
   <a href="https://subashpraveen.com">
-    <img src="https://img.shields.io/badge/Portfolio-fafafa?style=for-the-badge&logo=vercel&logoColor=18181b">
+    <img src="https://shieldcn.dev/badge/Portfolio-FAFAFA.svg?logo=vercel">
   </a>
   &nbsp;
   <a href="mailto:hello@subashpraveen.com">
-    <img src="https://img.shields.io/badge/Email-fafafa?style=for-the-badge&logo=gmail&logoColor=18181b">
+    <img src="https://shieldcn.dev/badge/Email-FAFAFA.svg?logo=gmail">
   </a>
   &nbsp;
   <a href="https://subashpraveen.com/resume">
-    <img src="https://img.shields.io/badge/Resume-fafafa?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzE4MTgxYiI+PHBhdGggZD0iTTE5IDloLTRWM0g5djZINWw3IDcgNy03ek01IDE4djJoMTR2LTJINXoiLz48L3N2Zz4=&logoColor=18181b">
+    <img src="https://shieldcn.dev/badge/Resume-FAFAFA.svg?logo=ri%3AFiDownload">
   </a>
 </div>
 
