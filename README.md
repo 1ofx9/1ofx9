@@ -22,10 +22,8 @@
 <br/>
 
 <div align="center">
-  
-![](https://raw.githubusercontent.com/1ofx9/githubStats/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/1ofx9/githubStats/output/generated/languages.svg)
-
+  <img src="https://raw.githubusercontent.com/1ofx9/githubStats/output/generated/overview.svg" width="49%" alt="GitHub Overview" />
+  <img src="https://raw.githubusercontent.com/1ofx9/githubStats/output/generated/languages.svg" width="49%" alt="Top Languages" />
 </div>
 
 <br/>
