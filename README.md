@@ -21,7 +21,11 @@
 
 <br/>
 
+<div align="center">
+  
 ![](https://raw.githubusercontent.com/1ofx9/githubStats/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/1ofx9/githubStats/output/generated/languages.svg)
+
+</div>
 
 <br/>
